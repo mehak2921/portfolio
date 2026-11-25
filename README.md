@@ -4,7 +4,7 @@ A modern, interactive portfolio showcasing my work as a **Generative AI Engineer
 
 ## 🌐 Live Preview
 
-🔗 **[mehak2921.github.io/portfolio-](https://mehak2921.github.io/portfolio-/Mehak%20Portfolio.html)**
+🔗 **[mehak2921.github.io/portfolio](https://mehak2921.github.io/portfolio/)**
 
 ## ✨ Features
 
